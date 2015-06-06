@@ -7,6 +7,7 @@ Sharing, suggestions and contributions are always welcome!
 * [Awesome Crystal](#awesome-crystal)
   * [Database Drivers](#database-drivers)
   * [HTTP](#http)
+  * [Testing](#testing)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
 * [Resources](#resources)
