@@ -14,6 +14,7 @@ Sharing, suggestions and contributions are always welcome!
 ## Database Drivers
 
 * [crystal-pg](https://github.com/will/crystal-pg) - Postgres driver
+* [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client for the Crystal programming language.
 * [mongo.cr](https://github.com/datanoise/mongo.cr) - Crystal binding for MongoDB C Driver
 
 ## HTTP
