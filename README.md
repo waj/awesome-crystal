@@ -31,8 +31,8 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Web Frameworks
 
-* [Amatista](https://github.com/werner/amatista)
-* [Amethyst](https://github.com/Codcore/Amethyst)
+* [Amatista](https://github.com/werner/amatista) Rails-inspired framework
+* [Amethyst](https://github.com/Codcore/Amethyst) Rails-inspired framework
 * [Moonshine](https://github.com/dhruvrajvanshi/Moonshine)
 
 ## Web Servers
