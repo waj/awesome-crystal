@@ -16,6 +16,7 @@ Sharing, suggestions and contributions are always welcome!
 
 * [crystal-pg](https://github.com/will/crystal-pg) - Postgres driver
 * [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client for the Crystal programming language.
+* [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
 * [mongo.cr](https://github.com/datanoise/mongo.cr) - Crystal binding for MongoDB C Driver
 
 ## HTTP
