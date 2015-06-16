@@ -14,6 +14,7 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Database Drivers
 
+* [crystal-mysql](https://github.com/manastech/crystal-mysql) - MySQL client in pure Crystal
 * [crystal-pg](https://github.com/will/crystal-pg) - Postgres driver
 * [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client for the Crystal programming language.
 * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
@@ -32,8 +33,9 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Web Frameworks
 
-* [Amatista](https://github.com/werner/amatista) Rails-inspired framework
-* [Amethyst](https://github.com/Codcore/Amethyst) Rails-inspired framework
+* [Amatista](https://github.com/werner/amatista) - Rails-inspired framework
+* [Amethyst](https://github.com/Codcore/Amethyst) - Rails-inspired framework
+* [Frank](https://github.com/manastech/frank) - Small Sinatra clone
 * [Moonshine](https://github.com/dhruvrajvanshi/Moonshine)
 
 ## Web Servers
